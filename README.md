@@ -1,4 +1,4 @@
-### simula una situación donde hay un hilo que actualiza una imagen en segundo plano y un generador asíncrono que espera y consume esas imágenes en el hilo principal. Este es solo un ejemplo didáctico y no necesariamente representa un caso de uso práctico.
+### Simula una situación donde hay un hilo que actualiza una imagen en segundo plano y un generador asíncrono que espera y consume esas imágenes en el hilo principal. Este es solo un ejemplo didáctico y no necesariamente representa un caso de uso práctico.
 
 ### Codigo Python 3.12.2
 
